@@ -11,6 +11,12 @@
 - 🌱 I’m currently learning Game development 
 - 📫 How to reach me: Tacitim5@gmail.com
 
+
+Impact
+
+- Helped One of the US top 200 company optimize its codebase.
+- Reached 1.0m+ people on stack overflow.
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/tabarak-ali/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
