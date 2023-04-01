@@ -11,6 +11,12 @@
 - 🌱 I’m currently learning Game development 
 - 📫 How to reach me: Tacitim5@gmail.com
 
+<div id="badges">
+  <a href="https://www.linkedin.com/notifications/?filter=all">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tacit1">
 </p>
