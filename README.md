@@ -11,3 +11,12 @@
 - 🌱 I’m currently learning Game development 
 - 📫 How to reach me: Tacitim5@gmail.com
 
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tacit1">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="http://github-readme-streak-stats.herokuapp.com?user=Tacit1&theme=dark&background=000000">
+</p>
+
+
