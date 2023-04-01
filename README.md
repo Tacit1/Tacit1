@@ -3,7 +3,10 @@
 <!--
 **Tacit1/Tacit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-![Cover Image](https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg)
+<p align="center">
+  <img width="460" height="300"        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGIwZmFhZTg0NmYxYmM1M2VjMTEyNzVjNDgyMWIwZmU0YTQ2Zjk2YiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
+
 - 🔭 I’m currently working with NodeJs and its Alliances
 - 🌱 I’m currently learning Game development 
 - 📫 How to reach me: Tacitim5@gmail.com
