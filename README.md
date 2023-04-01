@@ -15,7 +15,12 @@
   <a href="https://www.linkedin.com/in/tabarak-ali/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/11898295/themysterious">
+    <img src="https://img.shields.io/badge/StackOverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
+  </a>
 </div>
+
+
 
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tacit1">
