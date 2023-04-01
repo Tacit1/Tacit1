@@ -12,7 +12,7 @@
 - 📫 How to reach me: Tacitim5@gmail.com
 
 <div id="badges">
-  <a href="https://www.linkedin.com/notifications/?filter=all">
+  <a href="https://www.linkedin.com/in/tabarak-ali/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
