@@ -33,7 +33,4 @@
   <img width="460" height="300" src="http://github-readme-streak-stats.herokuapp.com?user=Tacit1&theme=dark&background=000000&hide_border=true">
 </p>
 
-**Next targets:** Fastify, Undici, Pino… because the web deserves to be faster. 🚀
 
-Open source isn’t just code — it’s impact.  
-One merged PR at a time.
