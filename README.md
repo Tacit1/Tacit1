@@ -1,39 +1,39 @@
 ### Hi there 👋
 
-<!--
-**Tacit1/Tacit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> 
 <p align="center">
-  <img width="460" height="300"        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGIwZmFhZTg0NmYxYmM1M2VjMTEyNzVjNDgyMWIwZmU0YTQ2Zjk2YiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img width="460" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGIwZmFhZTg0NmYxYmM1M2VjMTEyNzVjNDgyMWIwZmU0YTQ2Zjk2YiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-- 🔭 I’m currently working with NodeJs and its Alliances
-- 🌱 I’m currently learning Game development 
+- **Contributor to Express.js** (Yes — my code is now in the official Express 5 release!)  
+- 🔭 Currently shipping production Node.js systems & hunting performance wins  
+- 🌱 Learning game development on the side (Unreal Engine + TypeScript)  
+- 💪 Helped a US Fortune 200 company optimize its Node.js codebase  
+- 📈 Reached 1.0M+ developers on Stack Overflow  
 - 📫 How to reach me: Tacitim5@gmail.com
 
-
-Impact
-
-- Helped One of the US top 200 company optimize its codebase.
-- Reached 1.0m+ people on stack overflow.
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tabarak-ali/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/11898295/themysterious">
-    <img src="https://img.shields.io/badge/StackOverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
+    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
+  </a>
+  <a href="https://github.com/expressjs/express/graphs/contributors">
+    <img src="https://img.shields.io/badge/Express.js-Contributor-brightgreen?style=for-the-badge&logo=npm&logoColor=white" alt="Express.js Contributor"/>
   </a>
 </div>
 
-
+<br>
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tacit1">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tacit1&layout=compact&theme=dark&hide_border=true">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="http://github-readme-streak-stats.herokuapp.com?user=Tacit1&theme=dark&background=000000">
+  <img width="460" height="300" src="http://github-readme-streak-stats.herokuapp.com?user=Tacit1&theme=dark&background=000000&hide_border=true">
 </p>
 
+**Next targets:** Fastify, Undici, Pino… because the web deserves to be faster. 🚀
 
+Open source isn’t just code — it’s impact.  
+One merged PR at a time.
